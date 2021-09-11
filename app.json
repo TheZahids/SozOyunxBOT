@@ -1,0 +1,22 @@
+
+{
+  "name": "SozOyunxBOT",
+  "description": "kelime oyunu",
+  "keywords": [
+    "telegram",
+    "best",
+    "group",
+    "manager",
+    "3"
+  ],
+  "repository": "https://github.com/TheZahids/SozOyunxBOT",
+  
+  "addons": [
+    {
+      "plan": "heroku-postgresql",
+      "options": {
+        "version": "10"
+      }
+    }
+  ]
+}
